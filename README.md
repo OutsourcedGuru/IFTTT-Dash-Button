@@ -21,7 +21,7 @@ When running, only the smaller header is in use with two pins going to the Velle
 ![img_0049](https://user-images.githubusercontent.com/15971213/42649931-e409d3e6-85bf-11e8-8eb4-6312e994789c.jpg)
 
 ## Building and Flashing
-TBD****
+I'll write up these instructions soon. They're a bit involved and I'll need to do some screencaps to make this easy.
 
 ## Original Project Info, Before Conversion
 
@@ -64,4 +64,11 @@ You dont need to take apart your button to re-program the url or action. If you 
 3. After setting your values, click on the 'Save' button then the 'Restart'
 ![Configuration Interface](https://gangster45671.github.io/IFTTT-Dash-Button/pictures/Config.png)
 
+|Description|Version|Author (Fork)|Last Update|
+|:---|:---|:---|:---|
+|IFTTT-Dash-Button|v1.0.1|OutsourcedGuru|July 12, 2018|
 
+|Donate||Cryptocurrency|
+|:-----:|---|:--------:|
+| ![eth-receive](https://user-images.githubusercontent.com/15971213/40564950-932d4d10-601f-11e8-90f0-459f8b32f01c.png) || ![btc-receive](https://user-images.githubusercontent.com/15971213/40564971-a2826002-601f-11e8-8d5e-eeb35ab53300.png) |
+|Ethereum||Bitcoin|

@@ -146,7 +146,8 @@ void loop() {
       ESP.deepSleep(0);
     }
 
-    Serial.println("Attempt " + failCount + " connecting to " + host);
+    Serial.print("Attempt " + failCount);
+    Serial.print(" connecting to " + host);
     // Try to connect to the host with TCP
     WiFiClient client;
     const int httpPort = 80;
