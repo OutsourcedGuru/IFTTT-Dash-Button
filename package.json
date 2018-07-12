@@ -1,0 +1,27 @@
+{
+  "name": "ifttt-dash-button",
+  "version": "1.0.1",
+  "description": "An Adafruit Huzzah ESP8266-based pushbutton for OctoPrint",
+  "main": "IFTTT-Dash-Button.ino",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OutsourcedGuru/IFTTT-Dash-Button.git"
+  },
+  "keywords": [
+    "esp8266",
+    "adafruit",
+    "huzzah",
+    "arduino",
+    "ifttt",
+    "button"
+  ],
+  "author": "OutsourcedGuru <support@outsourced.guru> (https://github.com/OutsourcedGuru)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OutsourcedGuru/IFTTT-Dash-Button/issues"
+  },
+  "homepage": "https://github.com/OutsourcedGuru/IFTTT-Dash-Button#readme"
+}

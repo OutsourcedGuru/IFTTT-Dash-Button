@@ -1,9 +1,9 @@
 {
   "ssid": "SSID Here",
   "pass": "Password Here",
-  "host": "examplewebsite.com",
+  "host": "octopi.local",
   "is_ip": false,
-  "uri": "/makemyrequest/",
+  "uri": "/pause/",
   "wc_p": 10,
   "gr_p": 10,
   "s_vcc": false,
